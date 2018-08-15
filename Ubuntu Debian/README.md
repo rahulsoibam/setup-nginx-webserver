@@ -13,11 +13,11 @@
   * [4 Nginx](#4-nginx)
 
 ## Table of Contents
--[Introduction](#introduction)
--[Prerequisites](#prerequisites)
--[Setup and Initial Server](#setup-and-initial-server)
--[Update and Upgrade](#update and upgrade)
--[Install Packages](#install-packages)
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Setup and Initial Server](#setup-and-initial-server)
+- [Update and Upgrade](#update and upgrade)
+- [Install Packages](#install-packages)
     * [1. Build essentials](#1-build-essentials)
     * [2. Extra Packages](#2-extra-packages)
     * [3. OpenSSL](#3-openssl)
