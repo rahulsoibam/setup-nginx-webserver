@@ -1,6 +1,16 @@
 # Setup an Secure Nginx Web Server on Ubuntu and Debian
 (Updated August 15, 2018)
 
+## Table of Contents  
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Setup and Initial Server](#setup-and-initial-server)
+- [Update and Upgrade](#update-and-upgrade)
+- [Install Common Packages](#install-common-packages)
+  * [1 Build essentials](#1-build-essentials)
+  * [2 Extra Packages](#2-extra-packages)
+  * [3 OpenSSL (with ALPN support)](#3-openssl)
+  * [4 Nginx](#4-nginx)
 
 ## Table of Contents
 -[Introduction](#introduction)
